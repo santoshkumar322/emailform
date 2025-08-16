@@ -1,6 +1,7 @@
 <?php
 use PHPMailer\PHPMailer\PHPMailer;
 use PHPMailer\PHPMailer\Exception;
+include "index.php";
 
 //require 'vendor/autoload.php'; // if installed via composer
  require 'PHPMailer_master/src/PHPMailer.php'; // if manual
